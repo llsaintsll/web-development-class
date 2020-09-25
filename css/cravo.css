@@ -1,8 +1,26 @@
-.colorh {
+/*An breath commentary to demonstrate how to use it in CSS*/
+* {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 0px;
     color: burlywood;
 }
 
-.imgsize {
+/*You can use only the padding command insted of putting all the "padding family" like i do below*/
+p {
+    color: black;
+    background-color: cornsilk;
+    width: 50%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+img {
     width: 200px;
     height: 200px;
+    margin-left: 45%;
 }
