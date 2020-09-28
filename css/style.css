@@ -1,9 +1,9 @@
-img {
+.imagesize {
     width: 120px;
     height: 120px;
 }
 
-h1 {
+#colorh {
     color: blue;
     text-align: center;
 }
